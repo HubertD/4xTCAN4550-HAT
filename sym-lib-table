@@ -1,0 +1,13 @@
+(sym_lib_table
+  (lib (name Regulator_Switching)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Regulator_Switching.lib)(options "")(descr ""))
+  (lib (name Interface_CAN_LIN)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Interface_CAN_LIN.lib)(options "")(descr ""))
+  (lib (name Oscillator)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Oscillator.lib)(options "")(descr ""))
+  (lib (name Memory_EEPROM)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Memory_EEPROM.lib)(options "")(descr ""))
+  (lib (name Diode)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Diode.lib)(options "")(descr ""))
+  (lib (name Power_Protection)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Power_Protection.lib)(options "")(descr ""))
+  (lib (name Device)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Device.lib)(options "")(descr ""))
+  (lib (name Connector)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Connector.lib)(options "")(descr ""))
+  (lib (name Connector_Generic)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Connector_Generic.lib)(options "")(descr ""))
+  (lib (name power)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/power.lib)(options "")(descr ""))
+  (lib (name Regulator_Linear)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Regulator_Linear.lib)(options "")(descr ""))
+)
