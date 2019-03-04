@@ -10,4 +10,5 @@
   (lib (name Connector_Generic)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Connector_Generic.lib)(options "")(descr ""))
   (lib (name power)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/power.lib)(options "")(descr ""))
   (lib (name Regulator_Linear)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Regulator_Linear.lib)(options "")(descr ""))
+  (lib (name Transistor_FET)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Transistor_FET.lib)(options "")(descr ""))
 )
